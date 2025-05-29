@@ -30,13 +30,8 @@ How many titles were added each year?
 
 How can users filter and explore the trend of a specific show over time?
 
-🔹 Page 3: Summary & Comparison
-What is the overall distribution between total movies and shows?
+## 📊 Netflix Dashboard Overview
+This interactive Power BI dashboard provides a comprehensive analysis of Netflix content. It offers insights into total runtime, content distribution across movies and TV shows, average IMDb ratings, and top genres. Users can explore trends over time, identify top-rated titles, and filter data by year, genre, or title. The dashboard includes intuitive navigation and dynamic visuals to support content performance tracking and strategic content planning.
 
-Which genres dominate across movies and TV shows?
-
-Which years had a significant spike or drop in content addition?
-
-How does the total runtime trend compare to title count trend over time?
-
-How does the average IMDb rating vary across the top-rated titles?
+## ✅ Conclusion
+The Netflix dashboard effectively visualizes key content trends, enabling users to explore performance metrics such as total runtime, content type distribution, genre popularity, and top-rated titles. Through interactive visuals and filters, the dashboard supports data-driven insights into viewing patterns and content strategy. It serves as a valuable tool for understanding Netflix’s content landscape and optimizing decision-making based on historical and genre-based performance.
